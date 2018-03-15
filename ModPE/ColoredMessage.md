@@ -53,7 +53,7 @@ colorMessage = function(message, color){
 	}
 };
 ```
-# Example
+## Example
 ```js
 colorMessage("This is an example of the colored message function", GOLD); //makes a colored clientMessage();
 ```
