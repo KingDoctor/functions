@@ -1,6 +1,6 @@
 # A faster clear inventory function :)
 ```js
-clearInventory = function() {
+function clearInventory() {
 	for(var i = 0; i < 255; i++) Player.clearInventorySlot(i);
 };
 ```
