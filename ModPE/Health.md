@@ -1,4 +1,4 @@
-# Server Script that can enable mods on servers.
+# Adding or removing health to your player with functions :)
 
 ```js
 function addHealth(amount) => {
