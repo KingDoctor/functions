@@ -1,4 +1,4 @@
-## This is to get colored Client message without having to write color code and the double 'S'.
+# This is to get colored Client message without having to write color code and the double 'S'.
 ```js
 colorMessage = function(message, color){
 	switch(color){
@@ -53,7 +53,7 @@ colorMessage = function(message, color){
 	}
 };
 ```
-### Example
+# Example
 ```js
 colorMessage("This is an example of the colored message function", GOLD); //makes a colored clientMessage();
 ```
