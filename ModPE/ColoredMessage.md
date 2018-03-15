@@ -1,6 +1,6 @@
 # This is to get colored Client message without having to write color code and the double 'S'.
 ```js
-colorMessage = function(message, color){
+function colorMessage(message, color){
 	switch(color){
 		case "RED":
 			clientMessage(ChatColor.RED+""+message);
