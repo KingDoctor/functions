@@ -1,4 +1,4 @@
-### Server Script that can enable mods on servers.
+# Server Script that can enable mods on servers.
 
 ```js
 function addHealth(amount) => {
@@ -9,7 +9,7 @@ function removeHealth(amount) => {
 		Entity.setHealth(getPlayerEnt(), Entity.getHealth(getPlayerEnt()) - amount);
 	}
 ```
-# Examples
+## Examples
 ```js
 addHealth(5); // adds 4 and a half hearts to your player.
 
