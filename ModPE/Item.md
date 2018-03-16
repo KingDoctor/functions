@@ -1,4 +1,4 @@
-# Add, remove or AddTo your carried item.
+# A list of functions that have to do with Items.
 ```js
 function removeItem() {
 	Player.clearInventorySlot(Player.getSelectedSlotId());
