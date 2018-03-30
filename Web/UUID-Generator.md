@@ -7,6 +7,6 @@ const UUID() =>
 ```
 ## Example
 ```js
-UUID(); Generates a UUID code when ran.
+UUID(); // Generates a UUID code when ran.
 console.log(UUID()); // will log a UUID code.
 ```
